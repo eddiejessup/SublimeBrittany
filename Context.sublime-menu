@@ -1,0 +1,12 @@
+[
+    {
+        "id": "brittanycontext",
+        "caption": "Brittany",
+        "children": [
+            {
+                "caption": "Format with Brittany",
+                "command": "brittany"
+            }
+        ]
+    }
+]
