@@ -1,7 +1,7 @@
 Brittany Sublime Text 3 Package
 =================================
 
-Use brittany to format a document or selection(s) containing Haskell source code, using [Brittany](https://github.com/lspitzner/brittany).
+Use [brittany](https://github.com/lspitzner/brittany) to format a document or selection(s) containing Haskell source code.
 
 Install
 -------
@@ -32,13 +32,13 @@ Access commands via:
 - Right-click menu item `Brittany`
 - Menu item `Tools -> Brittany`
 - Default keyboard shortcuts:
-  - Format: `⌘+k, b` (OSX) or `ctrl+k, b` (Linux and Windows)
+  - Format: `⌘+k, t` (OSX) or `ctrl+k, t` (Linux and Windows)
 
 The commands work on a selection, multiple selections or if nothing is selected, the whole document.
 
 Requirements
 ------------
-The command `brittany` should be available on the path.
+The command `brittany` should be available from the terminal. [Here](https://github.com/lspitzner/brittany#installation) are installation instructions for brittany itself.
 
 Author & Contributors
 ---------------------
